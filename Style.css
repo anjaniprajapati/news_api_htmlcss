@@ -1,0 +1,118 @@
+*{
+    margin:0px;
+}
+.heading{
+    font-family:Serif;
+    font-size: 6rem;
+    padding: 20px;
+}
+.Circle{
+    color:red;
+    font-size: 70px;
+}
+.headerline1{
+    border: 1px solid black;
+}
+.headerline2{
+    border: 1px solid black;
+    margin-top: 5px;
+}
+.col-12{
+    padding: 70px;
+    
+}
+.Input{
+    height: 60px;
+    width: 270px;
+    padding-left: 40px;
+}
+
+.Button{
+    position: relative;
+    height: 60px;
+    right: 4px;
+    width: 60px;
+    color: #fff;
+    background-color:red;
+    border: none;
+    
+}
+.btna{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: serif;
+}
+.col-12 i {
+    position: relative;
+    left: 40px;
+    font-size: 25px;
+    color: #868c98;
+}
+
+.topHeadline{
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.Imgdiv{
+    text-align: center;
+    padding: 15px;
+    height: 180px;
+}
+.Heading{
+    padding: 15px;
+    font-family: "Inknut Antiqua";
+    font-size: 18px;
+    font-weight: 600;
+    position:relative;
+    bottom:10px;
+}
+.Paragraph{
+    position: relative;
+    bottom:45px ;
+    color:  #3C3030;
+    padding: 15px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+}
+.readMoreDiv{
+    height: 30px;
+    position: relative;
+    bottom:77px;   
+}
+.readMore{
+    padding: 15px;
+    color:#3C3030;
+    font-family: "Inria Sans";
+    font-size: 16px;
+    font-weight: 400;
+}
+.Arrow{
+    position: relative;
+    bottom:53px;
+    left: 130px;
+    color: red;
+}
+.footer1{
+    border: 1px solid black;
+    margin-top: 90px;
+    margin-bottom: 50px; 
+}
+.foter2{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: serif;
+    margin-bottom: 50px; 
+}
+.circle{
+    color:red;
+    font-size: 15px;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
